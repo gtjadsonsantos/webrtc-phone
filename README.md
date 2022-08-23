@@ -1,5 +1,10 @@
 ![](https://img.shields.io/badge/Status-InDevelopment-gree)
 
+
+<p align="center" style="display: flex; flex-direction: row; align-content: center; justify-content: center; ">
+<img width="460" height="300"  src="https://raw.githubusercontent.com/jadson179/webrtc-phone/main/images/logo@335x58.svg">
+</p>
+
 Cliente WEB para comunicação de audio e video via SIP
 
 ## Requisitos 📜
