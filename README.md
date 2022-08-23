@@ -22,6 +22,7 @@ Considerando esta demanda específica universal de possibilitar a comunicação 
 - [ ] Video Chamadas
 - [ ] Audio Chamadas
 - [ ] Contatos (Adicionar, Remover, Listar e Atualizar)
+- [ ] Histórico de Chamadas (Adicionar, Remover, Listar e Atualizar)
 
 ### Não funcionais ♻️
 
