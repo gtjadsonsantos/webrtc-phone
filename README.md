@@ -30,4 +30,6 @@ Considerando esta demanda específica universal de possibilitar a comunicação 
 
 ### Wireframes 🖼
 
+![](https://raw.githubusercontent.com/jadson179/webrtc-phone/main/images/PageInicial.svg)
+
 ## [Licença](LICENSE)
