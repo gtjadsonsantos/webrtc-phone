@@ -32,4 +32,6 @@ Considerando esta demanda específica universal de possibilitar a comunicação 
 
 ![](https://raw.githubusercontent.com/jadson179/webrtc-phone/main/images/PageInicial.svg)
 
+[Ir para o figma](https://www.figma.com/file/J0uFDBrIgTQNkp8ibzBch4/WebRTC-Phone?node-id=0%3A1)
+
 ## [Licença](LICENSE)
